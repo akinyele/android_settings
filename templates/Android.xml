@@ -1,0 +1,7 @@
+<templateSet group="Android">
+  <template name="cmtBlk" value="//########################################&#10;//##&#10;//##&#10;//##&#10;//########################################" description="adding a commet block for organization" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="response" value="if(response.isSuccessful()){&#10;&#10;                    try {&#10;&#10;                    }catch (Exception e){&#10;                        Log.e(TAG, LogUtil.prependCallLocation( &quot;onResponse: failed to parse info&quot;),e );&#10;                    }&#10;&#10;                }else {&#10;                    Log.e(TAG, LogUtil.prependCallLocation(&quot;onResponse: call unsuccessful &quot;));&#10;                }" description="template for parsing json data" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

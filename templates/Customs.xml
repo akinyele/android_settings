@@ -1,0 +1,7 @@
+<templateSet group="Customs">
+  <template name="cmtBlock" value="//######################################&#10;//#&#10;//#&#10;//#&#10;//######################################" description="Comment Block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
