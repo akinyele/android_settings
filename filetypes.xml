@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping pattern="color" type="XML" />
     </extensionMap>
   </component>
 </application>
