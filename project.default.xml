@@ -6,9 +6,6 @@
           <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
         </configurations>
       </component>
-      <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-      </component>
     </defaultProject>
   </component>
 </application>
